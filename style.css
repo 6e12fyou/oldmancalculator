@@ -8,6 +8,6 @@ a:link {
 a:visited {
   color: darkturquoise;
 }
-p, h1, i{
+p, h1, i, b{
     color: white;
 }
