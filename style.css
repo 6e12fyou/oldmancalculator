@@ -1,0 +1,13 @@
+body {
+    background-image: url("watertile_bg.png");
+     background-color: #cccccc;
+}
+a:link {
+  color: gainsboro;
+}
+a:visited {
+  color: darkturquoise;
+}
+p, h1, i{
+    color: white;
+}
